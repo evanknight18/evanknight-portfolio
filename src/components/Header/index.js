@@ -5,8 +5,12 @@ import logo from '../../assets/cover/logo-no-background.png';
 function Header(props) {
   return (
     <header className="flex-row space-between px-1">
-      <img src={logo} alt="logo" className='logo'></img>
-      <img src={coverImage} alt="wooden background" className='coverImage'></img>
+      <div className="logo-container">
+        <img src={logo} alt="logo" className="logo" />
+      </div>
+      <div className="coverImage-container">
+        <img src={coverImage} alt="wooden background" className="coverImage" />
+      </div>
       {props.children}
     </header>
   );

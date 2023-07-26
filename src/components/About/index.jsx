@@ -1,11 +1,16 @@
 import React from 'react';
+import profilePicture from '../../assets/small/portraits/evanknight-profile-pic.jpg'; // Replace the path with your actual profile picture path
 
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+          <img
+            src={profilePicture}
+            alt="Profile"
+            style={{ width: "96px", height: "96px", borderRadius: "50%" }}
+          />
         </div>
         <p>Hello! I'm Evan Knight, a Denver-based, full-stack web developer and touring musician with a unique blend of creative and technical skills.</p>
 

@@ -204,21 +204,25 @@ ul.skills li {
   list-style-type: circle;
 }
 
+/* styles.css */
 footer {
   font-size: 48px;
   justify-content: center;
+  background-color: rgb(66, 2, 2); /* Add the dark red background color */
+  padding: 20px; /* Add some padding to the footer to give it some space */
 }
 
 footer a {
-  color: var(--light);
-  opacity: .5;
+  color: white; /* Set the icon color to white */
+  opacity: 0.5;
   margin: 10px 20px;
-  transition: all .3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 footer a:hover {
   opacity: 1;
 }
+
 
 textarea {
   width: 600px;
