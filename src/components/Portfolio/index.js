@@ -6,16 +6,16 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'crypt-keeper',
+      name: 'todo-list',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://todo-list-9-b26899755baa.herokuapp.com/",
+      repo: "https://github.com/evanknight18/todo-list"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'e-commerce backend',
+      description: 'Express.js, Sequelize, MySQL, Insomnia',
+      link: "https://github.com/evanknight18/ecommerce-backend",
+      repo: "https://github.com/evanknight18/ecommerce-backend"
     },
     {
       name: 'run-buddy',
