@@ -13,8 +13,8 @@ function Portfolio() {
     },
     {
       name: 'e-commerce backend',
-      description: 'Express.js, Sequelize, MySQL, Insomnia',
-      link: "https://github.com/evanknight18/ecommerce-backend",
+      description: 'Express.js/Sequelize/MySQL/Insomnia',
+      link: "https://drive.google.com/file/d/1fVoYr0Blaa4DQ7-AbMnf8GrEcewaw4qP/view",
       repo: "https://github.com/evanknight18/ecommerce-backend"
     },
     {
@@ -31,7 +31,7 @@ function Portfolio() {
     },
     {
       name: 'calculator',
-      description: 'React/JavaScript/CSS',
+      description: 'React/TailwindCSS/API',
       link: "https://github.com",
       repo: "https://github.com"
     },

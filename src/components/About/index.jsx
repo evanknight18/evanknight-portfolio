@@ -14,7 +14,7 @@ function About() {
         </div>
         <p>Hello! I'm Evan James Knight Sonne, a Denver-based, full-stack web developer and touring musician with a unique blend of creative and technical skills.</p>
 
-        <p>I grew up with the steady rhythm of music shaping my life, as a drummer who has played in 16 different countries across three continents. The willpower, pattern recognition, and attention to detail I honed during my musical journey have been instrumental in my transition into web development. My background gives me a unique, unconventional perspective when it comes to coding - I like to think of each project as a composition, with different elements coming together in harmony to create a functional, user-friendly experience.</p>
+        <p>I grew up with the steady rhythm of music shaping my life, as a drummer who has played in 20+ different countries across three continents. The willpower, pattern recognition, and attention to detail I honed during my musical journey have been instrumental in my transition into web development. My background gives me a unique, unconventional perspective when it comes to coding - I like to think of each project as a composition, with different elements coming together in harmony to create a functional, user-friendly experience.</p>
 
         <p>In 2023, I graduated from the University of Denver's Full Stack Bootcamp, where I refined my technical skills. I pride myself on my focus and my ability to use these tools to craft intricate web applications. I consider myself a perpetual learner, constantly seeking out new technologies and methodologies to sharpen my craft.</p>
 
