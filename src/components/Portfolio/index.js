@@ -18,10 +18,10 @@ function Portfolio() {
       repo: "https://github.com/evanknight18/ecommerce-backend"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'password-generator',
+      description: 'JavaScript/HTML/CSS',
+      link: "https://evanknight18.github.io/Password-Generator/",
+      repo: "https://github.com/evanknight18/Password-Generator"
     },
     {
       name: 'led-wall',
