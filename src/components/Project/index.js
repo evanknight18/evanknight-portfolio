@@ -5,7 +5,7 @@ import { removeHyphensAndCapitalize } from '../../utils/helpers';
 import todoListImage from '../../assets/projects/todo-list.jpg';
 import ecommerceBackendImage from '../../assets/projects/e-commerce backend.jpg';
 import passwordGeneratorImage from '../../assets/projects/password-generator.jpg';
-import ledWallImage from '../../assets/projects/led-wall.jpg';
+import weatherForcastImage from '../../assets/projects/weather-forcast.jpg';
 import calculatorImage from '../../assets/projects/calculator.jpg';
 
 function Project({ project }) {
@@ -17,7 +17,7 @@ function Project({ project }) {
     'todo-list': todoListImage,
     'e-commerce backend': ecommerceBackendImage,
     'password-generator': passwordGeneratorImage,
-    'led-wall': ledWallImage,
+    'weather-forcast': weatherForcastImage,
     'calculator': calculatorImage
   };
 

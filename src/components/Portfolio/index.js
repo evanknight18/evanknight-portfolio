@@ -24,16 +24,16 @@ function Portfolio() {
       repo: "https://github.com/evanknight18/Password-Generator"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather-forcast',
+      description: 'Javascript/HTML/CSS',
+      link: "https://evanknight18.github.io/Weather-Forecast-App/",
+      repo: "https://github.com/evanknight18/Weather-Forecast-App"
     },
     {
       name: 'calculator',
       description: 'React/TailwindCSS/API',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://multi-calculator-app9-94f79144570a.herokuapp.com/",
+      repo: "https://github.com/evanknight18/multi-calculator-app"
     },
   ]);
 
